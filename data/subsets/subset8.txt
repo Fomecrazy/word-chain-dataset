@@ -1,0 +1,16 @@
+manual
+part
+adapter
+connector
+plate
+label
+screw
+bolt
+panel
+interface
+controller
+sensor
+case
+fixture
+insert
+extension

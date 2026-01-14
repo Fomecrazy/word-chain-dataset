@@ -1,0 +1,16 @@
+assembly
+unit
+module
+panel
+plate
+lid
+shell
+housing
+frame
+body
+surface
+interface
+fixture
+hardware
+component
+mechanism

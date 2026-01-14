@@ -1,0 +1,14 @@
+knob
+drawer
+shelf
+cabinet
+locker
+trunk
+bucket
+pan
+knife
+spoon
+napkin
+tray
+seat
+belt

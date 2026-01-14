@@ -1,0 +1,16 @@
+box
+bag
+pack
+set
+kit
+tray
+bin
+case
+cover
+label
+tag
+sticker
+manual
+guide
+part
+replacement

@@ -1,0 +1,16 @@
+holder
+stand
+set
+bag
+case
+tray
+box
+frame
+base
+insert
+sleeve
+hook
+clip
+ring
+seal
+rack

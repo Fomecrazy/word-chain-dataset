@@ -1,0 +1,16 @@
+label
+tag
+receipt
+ticket
+box
+bag
+folder
+envelope
+manual
+guide
+list
+sheet
+tray
+bin
+case
+package

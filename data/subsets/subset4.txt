@@ -1,0 +1,16 @@
+case
+cover
+base
+mount
+box
+support
+control
+power
+access
+port
+compartment
+enclosure
+bracket
+connector
+adapter
+handle

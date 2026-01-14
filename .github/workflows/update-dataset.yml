@@ -1,0 +1,36 @@
+name: Update dataset and manifest
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "data/**"
+      - "scripts/update.py"
+
+jobs:
+  update_manifest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Run update script
+        run: python scripts/updateDataset.py
+      - name: Commit update
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A data/dataset/
+          git commit -m "Update auto-generated dataset (${{ github.sha }})" || echo "No changes"
+          git push
+      - name: Run manifest script
+        run: python scripts/updateManifest.py
+      - name: Commit manifest update
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A manifest.json
+          git commit -m "Update manifest (${{ github.sha }})" || echo "No changes"
+          git push

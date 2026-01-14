@@ -1,0 +1,16 @@
+assembly
+kit
+cover
+holder
+hardware
+fastener
+port
+socket
+mounting
+module
+panel
+plate
+case
+connector
+adapter
+interface
