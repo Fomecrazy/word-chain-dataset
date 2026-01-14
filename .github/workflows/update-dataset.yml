@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+      - live-server-recieve-test
     paths:
       - "data/**"
       - "scripts/update.py"

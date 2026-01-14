@@ -6,8 +6,6 @@ locker
 trunk
 bucket
 pan
-knife
-spoon
 napkin
 tray
 seat
