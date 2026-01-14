@@ -1,6 +1,6 @@
 {
-  "version": "38f71c7c3355c2b6e7034d591b64209a9158e660",
-  "updated_at": "2026-01-14T21:26:34.771169+00:00",
+  "version": "7c808972bf4c4d24e05aa866f4ea7a0a51c82652",
+  "updated_at": "2026-01-14T21:37:16.798040+00:00",
   "dataset": {
     "generated2": {
       "version": "38f71c7c3355c2b6e7034d591b64209a9158e660",
@@ -8,9 +8,9 @@
       "url": "https://raw.githubusercontent.com/Fomecrazy/word-chain-dataset/38f71c7c3355c2b6e7034d591b64209a9158e660/data/dataset/generated/generated2.json"
     },
     "generated0": {
-      "version": "38f71c7c3355c2b6e7034d591b64209a9158e660",
-      "updated_at": "2026-01-14T21:26:34.771123+00:00",
-      "url": "https://raw.githubusercontent.com/Fomecrazy/word-chain-dataset/38f71c7c3355c2b6e7034d591b64209a9158e660/data/dataset/generated/generated0.json"
+      "version": "7c808972bf4c4d24e05aa866f4ea7a0a51c82652",
+      "updated_at": "2026-01-14T21:37:16.798008+00:00",
+      "url": "https://raw.githubusercontent.com/Fomecrazy/word-chain-dataset/7c808972bf4c4d24e05aa866f4ea7a0a51c82652/data/dataset/generated/generated0.json"
     },
     "generated1": {
       "version": "38f71c7c3355c2b6e7034d591b64209a9158e660",
