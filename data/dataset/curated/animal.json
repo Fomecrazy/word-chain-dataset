@@ -5,7 +5,8 @@
 			"trap"
 		],
 		"cow": [
-			"bell"
+			"bell",
+			"milk"
 		],
 		"goat": [
 			"horn"
