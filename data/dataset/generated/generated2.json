@@ -1,6 +1,6 @@
 {
-  "version": "eaeed0b62b5fbb9f3c0ea2cc4c17fc59891289f2",
-  "updated_at": "2026-01-17T13:28:15.611890+00:00",
+  "version": "1ad126123d92a9d55188f3f9db9dbd3078984095",
+  "updated_at": "2026-01-18T13:31:01.743196+00:00",
   "startingWords": [
     "shirt",
     "jacket",
@@ -19,26 +19,7 @@
     "blouse",
     "tunic",
     "outfit",
-    "garment",
-    "collar",
-    "sleeve",
-    "pocket",
-    "button",
-    "zipper",
-    "fabric",
-    "lining",
-    "seam",
-    "hem",
-    "cuff",
-    "hood",
-    "belt",
-    "tag",
-    "label",
-    "buttonhole",
-    "strap",
-    "panel",
-    "trim",
-    "patch"
+    "garment"
   ],
   "data": {
     "shirt": [

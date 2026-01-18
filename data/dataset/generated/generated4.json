@@ -1,6 +1,6 @@
 {
-  "version": "eaeed0b62b5fbb9f3c0ea2cc4c17fc59891289f2",
-  "updated_at": "2026-01-17T13:28:15.614670+00:00",
+  "version": "1ad126123d92a9d55188f3f9db9dbd3078984095",
+  "updated_at": "2026-01-18T13:31:01.746707+00:00",
   "startingWords": [
     "apple",
     "banana",
@@ -26,27 +26,7 @@
     "spinach",
     "broccoli",
     "cabbage",
-    "corn",
-    "juice",
-    "slice",
-    "salad",
-    "seed",
-    "plant",
-    "crop",
-    "bunch",
-    "piece",
-    "tree",
-    "market",
-    "farm",
-    "garden",
-    "basket",
-    "bag",
-    "box",
-    "crate",
-    "pile",
-    "heap",
-    "mix",
-    "variety"
+    "corn"
   ],
   "data": {
     "apple": [

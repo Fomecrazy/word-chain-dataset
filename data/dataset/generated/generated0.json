@@ -1,6 +1,6 @@
 {
-  "version": "eaeed0b62b5fbb9f3c0ea2cc4c17fc59891289f2",
-  "updated_at": "2026-01-17T13:28:15.602765+00:00",
+  "version": "1ad126123d92a9d55188f3f9db9dbd3078984095",
+  "updated_at": "2026-01-18T13:31:01.729527+00:00",
   "startingWords": [
     "door",
     "window",
@@ -21,26 +21,7 @@
     "phone",
     "remote",
     "wallet",
-    "card",
-    "cover",
-    "surface",
-    "edge",
-    "inside",
-    "top",
-    "bottom",
-    "label",
-    "panel",
-    "frame",
-    "corner",
-    "holder",
-    "side",
-    "front",
-    "base",
-    "back",
-    "interior",
-    "exterior",
-    "finish",
-    "color"
+    "card"
   ],
   "data": {
     "door": [

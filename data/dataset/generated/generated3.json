@@ -1,6 +1,6 @@
 {
-  "version": "eaeed0b62b5fbb9f3c0ea2cc4c17fc59891289f2",
-  "updated_at": "2026-01-17T13:28:15.613640+00:00",
+  "version": "1ad126123d92a9d55188f3f9db9dbd3078984095",
+  "updated_at": "2026-01-18T13:31:01.745444+00:00",
   "startingWords": [
     "dog",
     "cat",
@@ -26,30 +26,7 @@
     "zebra",
     "monkey",
     "ape",
-    "kangaroo",
-    "tail",
-    "fur",
-    "leg",
-    "paw",
-    "head",
-    "eye",
-    "ear",
-    "mouth",
-    "tooth",
-    "bone",
-    "skin",
-    "hair",
-    "body",
-    "breed",
-    "species",
-    "habitat",
-    "diet",
-    "pack",
-    "herd",
-    "group",
-    "mother",
-    "baby",
-    "footprint"
+    "kangaroo"
   ],
   "data": {
     "dog": [
