@@ -3,6 +3,10 @@ import subprocess
 import os
 from datetime import datetime, timezone
 
+prevSHA = os.environ.get("PREV_SHA")
+currentSHA = os.environ.get("SHA")
+if prevSHA == "0" or prevSHA == None: prevSHA = "4b825dc642cb6eb9a060e54bf8d69288fbee4904"
+
 try:
 	with open("data/dataset/curated/blacklist.json", "r", encoding="utf-8") as f:
 		blacklist = json.load(f)
@@ -13,19 +17,6 @@ try:
 		manifestData = json.load(f)["dataset"]
 except:
 	manifestData = {}
-
-try:
-	prevSHA = subprocess.check_output(
-    	["git", "log", "-n", "1", "--pretty=format:%H", "manifest.json"]
-			).decode().strip()
-	if prevSHA == "0": prevSHA = "4b825dc642cb6eb9a060e54bf8d69288fbee4904"
-
-	currentSHA = subprocess.check_output(
-	["git", "rev-parse", "HEAD"]
-		).decode().strip()
-	
-except:
-	raise Exception("Failed to get previous or current commit SHA")
 
 def getRawUrl(path):
 	return f"https://raw.githubusercontent.com/Fomecrazy/word-chain-dataset/{currentSHA}/{path}"

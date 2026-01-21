@@ -29,6 +29,9 @@ jobs:
       #     git push
       - name: Run manifest script
         run: python scripts/updateManifest.py
+        env:
+          PREV_SHA: ${{ github.event.before }}
+          SHA: ${{ github.sha }}
       - name: Commit manifest update
         run: |
           git config user.name "github-actions[bot]"
