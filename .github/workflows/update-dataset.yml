@@ -36,6 +36,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A manifest.json
+          git add -A manifest.json data/
           git commit -m "Update manifest (${{ github.sha }})" || echo "No changes"
           git push
