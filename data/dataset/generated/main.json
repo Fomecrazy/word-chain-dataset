@@ -1,4 +1,6 @@
 {
+  "version": "",
+  "updated_at": "2026-01-21T16:41:57.094812+00:00",
   "data": {
     "house": [
       "door",
@@ -27,6 +29,32 @@
       "foundation",
       "porch",
       "basement"
+    ],
+    "car": [
+      "wash",
+      "door",
+      "seat",
+      "engine",
+      "battery",
+      "tire",
+      "wheel",
+      "key",
+      "window",
+      "mirror",
+      "alarm",
+      "horn",
+      "radio",
+      "roof",
+      "trunk",
+      "hood",
+      "park",
+      "dealer",
+      "insurance",
+      "charger",
+      "jack",
+      "lot",
+      "crash",
+      "rental"
     ]
   }
 }

@@ -23,6 +23,7 @@ try:
 	currentSHA = subprocess.check_output(
 	["git", "rev-parse", "HEAD"]
 		).decode().strip()
+	
 except:
 	raise Exception("Failed to get previous or current commit SHA")
 
@@ -59,14 +60,12 @@ def updateManifest():
 			try:
 				# if root == "data/dataset/generated": continue
 
-				with open(path, "r+", encoding="utf-8") as f:
+				with open(path, "r", encoding="utf-8") as f:
 					data = json.load(f)
 					data["version"] = currentSHA
 					data["updated_at"] = datetime.now(timezone.utc).isoformat()
 
-					f.seek(0)
-					f.truncate()
-
+				with open(path, "w", encoding="utf-8") as f:
 					json.dump(data, f, indent=2, ensure_ascii=False)
 			except: continue
 
