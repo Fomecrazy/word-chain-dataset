@@ -16,17 +16,17 @@ jobs:
         with:
           fetch-depth: 2
 
-      - name: Run update script
-        run: python scripts/updateDataset.py
-        env:
-          SHA: ${{ github.sha }}
-      - name: Commit update
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A data/dataset/
-          git commit -m "Update auto-generated dataset (${{ github.sha }})" || echo "No changes"
-          git push
+      # - name: Run update script
+      #   run: python scripts/updateDataset.py
+      #   env:
+      #     SHA: ${{ github.sha }}
+      # - name: Commit update
+      #   run: |
+      #     git config user.name "github-actions[bot]"
+      #     git config user.email "github-actions[bot]@users.noreply.github.com"
+      #     git add -A data/dataset/
+      #     git commit -m "Update auto-generated dataset (${{ github.sha }})" || echo "No changes"
+      #     git push
       - name: Run manifest script
         run: python scripts/updateManifest.py
       - name: Commit manifest update

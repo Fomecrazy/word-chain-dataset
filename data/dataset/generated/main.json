@@ -1,0 +1,34 @@
+{
+  "version": "",
+  "updated_at": "",
+  "data": {
+    "house": [
+      "door",
+      "window",
+      "roof",
+      "wall",
+      "room",
+      "floor",
+      "kitchen",
+      "bathroom",
+      "bedroom",
+      "garage",
+      "yard",
+      "garden",
+      "fence",
+      "key",
+      "light",
+      "number",
+      "plant",
+      "cat",
+      "pet",
+      "mouse",
+      "fire",
+      "alarm",
+      "paint",
+      "foundation",
+      "porch",
+      "basement"
+    ]
+  }
+}

@@ -2,7 +2,13 @@
 	"metadata": {},
 	"data": {
 		"coin": [
-			"press"
+			"press",
+			"flip"
+		],
+		"car": [
+			"jam",
+			"crash",
+			"wreck"
 		],
 		"cuff": [
 			"link"

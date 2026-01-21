@@ -39,7 +39,7 @@ def updateManifest():
 		
 		print(diff)
 
-		exclude = set(["data/dataset/curated/blacklist.json"])
+		exclude = set(["data/dataset/curated/blacklist.json", "data/dataset/generated/deadEnds.json"])
 
 		changed_files = [f for f in diff if not f in exclude]
 	except subprocess.CalledProcessError as e:
@@ -57,7 +57,7 @@ def updateManifest():
 			}
 
 			try:
-				if root == "data/dataset/generated": continue
+				# if root == "data/dataset/generated": continue
 
 				with open(path, "r+", encoding="utf-8") as f:
 					data = json.load(f)
