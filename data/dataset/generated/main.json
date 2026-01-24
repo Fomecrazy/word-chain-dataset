@@ -14,7 +14,7 @@
       "call",
       "tour",
       "sale",
-      "prices",
+      "price",
       "door",
       "window",
       "roof",
@@ -22,13 +22,33 @@
       "cleaning",
       "hunting",
       "sitting",
-      "warming"
+      "warming",
+      "chain",
+      "ring",
+      "hole",
+      "board",
+      "lock",
+      "card",
+      "pad",
+      "note",
+      "way",
+      "feature",
+      "point",
+      "number",
+      "switch",
+      "tool",
+      "holder",
+      "position",
+      "word",
+      "signature",
+      "tone",
+      "code"
     ],
     "car": [
       "door",
       "wash",
       "seat",
-      "keys",
+      "key",
       "engine",
       "battery",
       "crash",
@@ -111,7 +131,7 @@
       "block",
       "rage",
       "kill",
-      "works",
+      "work",
       "test",
       "bike",
       "safety",
@@ -330,7 +350,7 @@
     "keyboard": [
       "shortcut",
       "layout",
-      "keys",
+      "key",
       "input",
       "typing",
       "driver",
@@ -1334,28 +1354,6 @@
       "barrier",
       "surround"
     ],
-    "key": [
-      "chain",
-      "ring",
-      "hole",
-      "board",
-      "lock",
-      "card",
-      "pad",
-      "note",
-      "way",
-      "feature",
-      "point",
-      "number",
-      "switch",
-      "tool",
-      "holder",
-      "position",
-      "word",
-      "signature",
-      "tone",
-      "code"
-    ],
     "number": [
       "plate",
       "sign",
@@ -2105,6 +2103,7 @@
       "loop"
     ],
     "latch": [
+      "azure",
       "door",
       "window",
       "gate",
@@ -2148,28 +2147,6 @@
       "assembly",
       "case"
     ],
-    "sill": [
-      "window",
-      "door",
-      "plate",
-      "board",
-      "ledge",
-      "edge",
-      "frame",
-      "rail",
-      "section",
-      "support",
-      "top",
-      "bottom",
-      "panel",
-      "trim",
-      "surface",
-      "material",
-      "corner",
-      "threshold",
-      "cover",
-      "part"
-    ],
     "threshold": [
       "door",
       "limit",
@@ -2191,28 +2168,6 @@
       "floor",
       "edge",
       "mark"
-    ],
-    "peephole": [
-      "door",
-      "cover",
-      "viewer",
-      "lens",
-      "guard",
-      "slot",
-      "window",
-      "plate",
-      "frame",
-      "hole",
-      "panel",
-      "sight",
-      "camera",
-      "screen",
-      "glass",
-      "protection",
-      "angle",
-      "inspection",
-      "security",
-      "view"
     ],
     "pocket": [
       "knife",
@@ -2280,50 +2235,6 @@
       "service",
       "force"
     ],
-    "casing": [
-      "pipe",
-      "screw",
-      "bolt",
-      "shell",
-      "cover",
-      "drill",
-      "tube",
-      "frame",
-      "housing",
-      "material",
-      "panel",
-      "wall",
-      "mount",
-      "section",
-      "ring",
-      "plate",
-      "guard",
-      "cap",
-      "layer",
-      "support"
-    ],
-    "trim": [
-      "door",
-      "window",
-      "wall",
-      "panel",
-      "edge",
-      "corner",
-      "roof",
-      "frame",
-      "molding",
-      "line",
-      "piece",
-      "material",
-      "section",
-      "board",
-      "cover",
-      "rail",
-      "strip",
-      "style",
-      "surface",
-      "finish"
-    ],
     "edge": [
       "of",
       "board",
@@ -2390,7 +2301,7 @@
       "file",
       "agent"
     ],
-    "rules": [
+    "rule": [
       "game",
       "system",
       "set",
@@ -2478,7 +2389,7 @@
       "status",
       "point"
     ],
-    "prices": [
+    "price": [
       "list",
       "range",
       "table",
@@ -2610,7 +2521,7 @@
       "period",
       "stage"
     ],
-    "keys": [
+    "key": [
       "board",
       "lock",
       "piano",
@@ -2829,28 +2740,6 @@
       "jar",
       "rack",
       "container"
-    ],
-    "jamb": [
-      "door",
-      "window",
-      "frame",
-      "post",
-      "side",
-      "trim",
-      "panel",
-      "section",
-      "corner",
-      "surface",
-      "mount",
-      "support",
-      "edge",
-      "hinge",
-      "brick",
-      "board",
-      "material",
-      "opening",
-      "column",
-      "structure"
     ],
     "stop": [
       "sign",
@@ -3442,7 +3331,7 @@
       "interest",
       "fun"
     ],
-    "works": [
+    "work": [
       "project",
       "plan",
       "site",
