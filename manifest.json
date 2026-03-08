@@ -1,6 +1,6 @@
 {
-  "version": "42a8ef22826c99badad4a272ce98a042b7f4d449",
-  "updated_at": "2026-03-08T09:40:34.211694+00:00",
+  "version": "831273c94b49f92ba3d85b1d2f9a5a90c5507815",
+  "updated_at": "2026-03-08T14:29:13.032396+00:00",
   "dataset": {
     "main": {
       "version": "66ba9821de3dd90f6f8423fcf43ea58e72ed84a9",
@@ -8,9 +8,9 @@
       "url": "https://raw.githubusercontent.com/Fomecrazy/word-chain-dataset/66ba9821de3dd90f6f8423fcf43ea58e72ed84a9/data/dataset/generated/main.json"
     },
     "fome": {
-      "version": "66ba9821de3dd90f6f8423fcf43ea58e72ed84a9",
-      "updated_at": "2026-03-06T20:57:07.980291+00:00",
-      "url": "https://raw.githubusercontent.com/Fomecrazy/word-chain-dataset/66ba9821de3dd90f6f8423fcf43ea58e72ed84a9/data/dataset/curated/fome.json"
+      "version": "831273c94b49f92ba3d85b1d2f9a5a90c5507815",
+      "updated_at": "2026-03-08T14:29:13.032295+00:00",
+      "url": "https://raw.githubusercontent.com/Fomecrazy/word-chain-dataset/831273c94b49f92ba3d85b1d2f9a5a90c5507815/data/dataset/curated/fome.json"
     },
     "animal": {
       "version": "2c5149cd4ea49db62c7168c1ca41bd5521476bca",
@@ -33,9 +33,9 @@
       "url": "https://raw.githubusercontent.com/Fomecrazy/word-chain-dataset/773fef87f2d57fb7aa35b247a6e337811f80729f/data/dataset/curated/color.json"
     },
     "cheez": {
-      "version": "42a8ef22826c99badad4a272ce98a042b7f4d449",
-      "updated_at": "2026-03-08T09:40:34.211036+00:00",
-      "url": "https://raw.githubusercontent.com/Fomecrazy/word-chain-dataset/42a8ef22826c99badad4a272ce98a042b7f4d449/data/dataset/curated/cheez.json"
+      "version": "831273c94b49f92ba3d85b1d2f9a5a90c5507815",
+      "updated_at": "2026-03-08T14:29:13.031638+00:00",
+      "url": "https://raw.githubusercontent.com/Fomecrazy/word-chain-dataset/831273c94b49f92ba3d85b1d2f9a5a90c5507815/data/dataset/curated/cheez.json"
     }
   }
 }
