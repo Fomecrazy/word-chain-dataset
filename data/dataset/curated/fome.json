@@ -3,10 +3,24 @@
   "data": {
     "pocket": [
       "change"
+      "dimension",
+		   "knife",
+		   "square"
     ],
     "change": [
-      "up"
+      "up",
+      "gear",
+      "hands",
+      "mind",
+      "state",
+      "course"
     ],
+    "candy": [
+		    "cane",
+		    "isle",
+		    "corn",
+		    "bar"
+	   ]
     "ear": [
       "wax",
       "piercing",
