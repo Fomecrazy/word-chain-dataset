@@ -1,328 +1,332 @@
 {
-	"metadata": {},
-	"data": {
-		"mouse": [
-			"trap",
-			"poison",
-			"pet",
-			"pointer",
-			"pad",
-			"hole"
-		],
-		"cow": [
-			"bell",
-			"milk",
-			"pasture"
-		],
-		"goat": [
-			"horn",
-			"milk",
-			"cheese",
-			"pen"
-		],
-		"horse": [
-			"ride",
-			"power",
-			"fly",
-			"shoe",
-			"chestnut"
-		],
-		"dog": [
-			"food",
-			"leash",
-			"trainer",
-			"park",
-			"house",
-			"owner",
-			"toy",
-			"day",
-			"days"
-		],
-		"bird": [
-			"nest",
-			"egg",
-			"beek",
-			"feather",
-			"wing",
-			"wings",
-			"house",
-			"cage",
-			"feeder",
-			"song",
-			"call",
-			"watching"
-		],
-		"ant": [
-			"hill",
-			"eater",
-			"man",
-			"farm"
-		],
-		"bat": [
-			"man",
-			"wing",
-			"wings",
-			"guano"
-		],
-		"rhino": [
-			"bettle",
-			"horn"
-		],
-		"cat": [
-			"tail",
-			"pet",
-			"fur",
-			"owner",
-			"cafe",
-			"nap",
-			"toy",
-			"food",
-			"litter",
-			"fish"
-		],
-		"fish": [
-			"tank",
-			"net",
-			"hook",
-			"market",
-			"bait",
-			"trap"
-		],
-		"monkey": [
-			"business",
-			"bars",
-			"wrench",
-			"mind"
-		],
-		"worm": [
-			"hole",
-			"bait",
-			"gear"
-		],
-		"elephant": [
-			"trunk",
-			"ear",
-			"ears",
-			"ride",
-			"seal",
-			"herd"
-		],
-		"wolf": [
-			"pack",
-			"pup",
-			"howl",
-			"territory"
-		],
-		"duck": [
-			"egg",
-			"pond",
-			"feather",
-			"walk",
-			"season",
-			"soup",
-			"call"
-		],
-		"pig": [
-			"pen",
-			"farm",
-			"tail",
-			"roast",
-			"sty",
-			"iron"
-		],
-		"chicken": [
-			"soup",
-			"egg",
-			"coop",
-			"drumstick",
-			"wing",
-			"wings",
-			"salad",
-			"nugget",
-			"nuggets"
-		],
-		"hawk": [
-			"nest",
-			"eye",
-			"prey",
-			"call",
-			"flight"
-		],
-		"lion": [
-			"roar",
-			"cub",
-			"king",
-			"territory",
-			"pride",
-			"hunt"
-		],
-		"bear": [
-			"cub",
-			"attack",
-			"paw",
-			"trap",
-			"hug"
-		],
-		"bee": [
-			"hive",
-			"pollen",
-			"colony",
-			"sting",
-			"keeper"
-		],
-		"butterfly": [
-			"effect",
-			"wings",
-			"stroke",
-			"garden"
-		],
-		"zebra": [
-			"crossing",
-			"stripes",
-			"pattern",
-			"herd",
-			"fish"
-		],
-		"lobster": [
-			"pizza",
-			"trap",
-			"claw",
-			"pot",
-			"roll"
-		]
-	},
-		"crab": [
-			"cage",
-			"cake",
-			"meat",
-			"claw",
-			"claws",
-			"bisque",
-			"roll",
-			"salad",
-			"legs"
-		],
-		"bunny": [
-			"hop",
-			"ears",
-			"burrow",
-			"tail",
-			"trail"
-		],
-		"cheetah": [
-			"speed",
-			"sprint",
-			"chase",
-			"cub",
-			"spots",
-			"tail"
-		],
-		"ostrich": [
-			"neck",
-			"egg",
-			"legs"
-		],
-		"firefly": [
-			"night",
-			"jar",
-			"glow",
-			"light"
-		],
-		"spider": [
-			"silk",
-			"web",
-			"venom",
-			"bite",
-			"egg"
-		],
-		"snake": [
-			"fang",
-			"venom",
-			"skin",
-			"coil",
-			"pit"
-		],
-		"tiger": [
-			"shark",
-			"stripe",
-			"stripes",
-			"beetle",
-			"moth",
-			"cub"
-		],
-		"shark": [
-			"attack",
-			"fin",
-			"tail",
-			"tooth",
-			"nose",
-			"cage"
-		],
-		"bull": [
-			"shark",
-			"rage",
-			"dog",
-			"frog",
-			"cage",
-			"ring"
-		],
-		"frog": [
-			"pond",
-			"gig",
-			"march",
-			"legs",
-			"jump"
-		],
-		"animal": [
-			"shelter",
-			"kingdom",
-			"welfare"
-		],
-		"snail": [
-			"pace",
-			"shell",
-			"trail"
-		],
-		"jellyfish": [
-			"sting",
-			"bloom"
-		],
-		"moth": [
-			"man",
-			"ball",
-			"balls",
-			"trap"
-		],
-		"fox": [
-			"glove",
-			"cub",
-			"hunt",
-			"hole",
-			"tail"
-		],
-		"hamster": [
-			"ball",
-			"cage",
-			"wheel",
-			"pet"
-		],
-		"dragon": [
-			"fly",
-			"fruit",
-			"cave",
-			"egg",
-			"breath",
-			"scale",
-			"boat"
-		],
-		"eagle": [
-			"eye",
-			"owl"
-		],
-		"sheep": [
-			"dog",
-			"wool",
-			"pen",
-			"skin"
-		]
+  "metadata": {},
+  "data": {
+    "mouse": [
+      "trap",
+      "poison",
+      "pet",
+      "pointer",
+      "pad",
+      "hole"
+    ],
+    "cow": [
+      "bell",
+      "milk",
+      "pasture"
+    ],
+    "goat": [
+      "horn",
+      "milk",
+      "cheese",
+      "pen"
+    ],
+    "horse": [
+      "ride",
+      "power",
+      "fly",
+      "shoe",
+      "chestnut"
+    ],
+    "dog": [
+      "food",
+      "leash",
+      "trainer",
+      "park",
+      "house",
+      "owner",
+      "toy",
+      "day",
+      "days"
+    ],
+    "bird": [
+      "nest",
+      "egg",
+      "beek",
+      "feather",
+      "wing",
+      "wings",
+      "house",
+      "cage",
+      "feeder",
+      "song",
+      "call",
+      "watching"
+    ],
+    "ant": [
+      "hill",
+      "eater",
+      "man",
+      "farm"
+    ],
+    "bat": [
+      "man",
+      "wing",
+      "wings",
+      "guano"
+    ],
+    "rhino": [
+      "bettle",
+      "horn"
+    ],
+    "cat": [
+      "tail",
+      "pet",
+      "fur",
+      "owner",
+      "cafe",
+      "nap",
+      "toy",
+      "food",
+      "litter",
+      "fish"
+    ],
+    "fish": [
+      "tank",
+      "net",
+      "hook",
+      "market",
+      "bait",
+      "trap"
+    ],
+    "monkey": [
+      "business",
+      "bars",
+      "wrench",
+      "mind"
+    ],
+    "worm": [
+      "hole",
+      "bait",
+      "gear"
+    ],
+    "elephant": [
+      "trunk",
+      "ear",
+      "ears",
+      "ride",
+      "seal",
+      "herd"
+    ],
+    "wolf": [
+      "pack",
+      "pup",
+      "howl",
+      "territory"
+    ],
+    "duck": [
+      "egg",
+      "pond",
+      "feather",
+      "walk",
+      "season",
+      "soup",
+      "call"
+    ],
+    "pig": [
+      "pen",
+      "farm",
+      "tail",
+      "roast",
+      "sty",
+      "iron"
+    ],
+    "chicken": [
+      "soup",
+      "egg",
+      "coop",
+      "drumstick",
+      "leg",
+      "wing",
+      "wings",
+      "salad",
+      "nugget",
+      "nuggets"
+    ],
+    "hawk": [
+      "nest",
+      "eye",
+      "prey",
+      "call",
+      "flight"
+    ],
+    "lion": [
+      "roar",
+      "cub",
+      "king",
+      "territory",
+      "pride",
+      "hunt"
+    ],
+    "bear": [
+      "cub",
+      "attack",
+      "paw",
+      "trap",
+      "hug"
+    ],
+    "bee": [
+      "hive",
+      "pollen",
+      "colony",
+      "sting",
+      "keeper"
+    ],
+    "butterfly": [
+      "effect",
+      "wings",
+      "stroke",
+      "garden",
+      "wing"
+    ],
+    "zebra": [
+      "crossing",
+      "stripes",
+      "pattern",
+      "herd",
+      "fish"
+    ],
+    "lobster": [
+      "pizza",
+      "trap",
+      "claw",
+      "pot",
+      "roll"
+    ]
+  },
+  "crab": [
+    "cage",
+    "cake",
+    "meat",
+    "claw",
+    "claws",
+    "bisque",
+    "roll",
+    "salad",
+    "legs"
+  ],
+  "bunny": [
+    "hop",
+    "ears",
+    "burrow",
+    "tail",
+    "trail"
+  ],
+  "cheetah": [
+    "speed",
+    "sprint",
+    "chase",
+    "cub",
+    "spots",
+    "tail"
+  ],
+  "ostrich": [
+    "neck",
+    "egg",
+    "legs"
+  ],
+  "firefly": [
+    "night",
+    "jar",
+    "glow",
+    "light"
+  ],
+  "spider": [
+    "silk",
+    "web",
+    "venom",
+    "bite",
+    "egg"
+  ],
+  "snake": [
+    "fang",
+    "venom",
+    "skin",
+    "coil",
+    "pit"
+  ],
+  "tiger": [
+    "shark",
+    "stripe",
+    "stripes",
+    "beetle",
+    "moth",
+    "cub"
+  ],
+  "shark": [
+    "attack",
+    "fin",
+    "tail",
+    "tooth",
+    "nose",
+    "cage"
+  ],
+  "bull": [
+    "shark",
+    "rage",
+    "dog",
+    "frog",
+    "cage",
+    "ring"
+  ],
+  "frog": [
+    "pond",
+    "gig",
+    "march",
+    "legs",
+    "jump"
+  ],
+  "animal": [
+    "shelter",
+    "kingdom",
+    "welfare"
+  ],
+  "snail": [
+    "pace",
+    "shell",
+    "trail"
+  ],
+  "jellyfish": [
+    "sting",
+    "bloom"
+  ],
+  "moth": [
+    "man",
+    "ball",
+    "balls",
+    "trap"
+  ],
+  "fox": [
+    "glove",
+    "cub",
+    "hunt",
+    "hole",
+    "tail"
+  ],
+  "hamster": [
+    "ball",
+    "cage",
+    "wheel",
+    "pet"
+  ],
+  "dragon": [
+    "fly",
+    "fruit",
+    "cave",
+    "egg",
+    "breath",
+    "scale",
+    "boat"
+  ],
+  "eagle": [
+    "eye",
+    "owl"
+  ],
+  "sheep": [
+    "dog",
+    "wool",
+    "pen",
+    "skin"
+  ],
+  "version": "2c5149cd4ea49db62c7168c1ca41bd5521476bca",
+  "updated_at": "2026-03-04T21:31:36.841469+00:00"
 }
