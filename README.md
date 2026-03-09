@@ -22,7 +22,7 @@ Wanna contribute and help us add more combinations? You can do so by following t
 ```sh
 	git add data/dataset/curated/<updated-file> #  git add . to stage all the changes
 	git commit -m "<describe your change>"
-	git push origin <your-branch-name>
+	git push
 ```
 
 6. Go to your fork on Github and open a pull request from <your-branch-name> to upstream main. The changes will be reviewed and merged after a while.
