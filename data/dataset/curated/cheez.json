@@ -18,7 +18,8 @@
 		"down"
 	],
 	"paint": [
-		"ball"
+		"ball",
+		"book"
 	],
     "wall": [
 		"crack",
@@ -26,7 +27,8 @@
 	],
     "money": [
 		"vault",
-        "wallet"
+        "wallet",
+		"tree"
 	],
     "voice": [
 		"changer"
@@ -35,7 +37,8 @@
 		"cat"
 	],
     "tour": [
-		"globe"
+		"globe",
+		"house"
 	],
     "landing": [
 		"plane",
@@ -43,14 +46,21 @@
         "area"
 	],
     "boat": [
-		"paddle"
+		"paddle",
+		"engine"
 	],
     "performance": [
 		"control",
 		"car"
 	],
     "point": [
-		"at"
+		"at",
+		"view",
+		"laser",
+		"left",
+		"right",
+		"up",
+		"down"
 	],
     "climb": [
 		"up",
@@ -72,7 +82,12 @@
 	],
     "capture": [
 		"criminal",
-        "flag"
+        "flag",
+		"rabbit",
+		"pig",
+		"cow",
+		"cat",
+		"dog"
 	],
     "harvest": [
 		"season",
@@ -94,7 +109,10 @@
         "talk"
 	],
     "trip": [
-		"bus"
+		"bus",
+		"plane",
+		"car",
+		"bag"
 	],
     "quality": [
 		"control"
@@ -106,7 +124,9 @@
 		"team"
 	],
     "work": [
-		"force"
+		"force",
+		"hard",
+		"smart"
 	],
     "time": [
 		"managment",
@@ -138,7 +158,8 @@
         "penalty"
 	],
     "child": [
-		"raise"
+		"raise",
+		"support"
 	],
     "knock": [
 		"out"
@@ -152,11 +173,19 @@
 	],
     "chase": [
 		"money",
-        "down"
+        "down",
+		"run",
+		"fast",
+		"tag",
+		"dog",
+		"pet",
+		"sibling"
 	],
     "temperature": [
 		"raise",
-        "meter"
+        "meter",
+		"hot",
+		"cold"
 	],
     "transport": [
 		"delivery",
@@ -175,10 +204,13 @@
 	],
     "soft": [
 		"pillow",
-        "spot"
+        "spot",
+		"crust"
 	],
     "fight": [
-		"off"
+		"off",
+		"urge",
+		"back"
 	],
     "chip": [
 		"away",
@@ -191,7 +223,10 @@
     "off": [
 		"center",
         "grid",
-		"brand"
+		"brand",
+		"line",
+		"topic",
+		"beat"
 	],
     "page": [
 		"up",
@@ -200,7 +235,11 @@
     "cut": [
 		"in",
         "out",
-        "hole"
+        "hole",
+		"off",
+		"hair",
+		"bleed",
+		"open"
 	],
     "rock": [
 		"bottom"
@@ -220,7 +259,8 @@
 	],
     "dealership": [
 		"boss",
-        "deal"
+        "deal",
+		"money"
 	],
     "nest": [
 		"eggs",
@@ -246,7 +286,10 @@
         "break"
 	],
     "in": [
-		"hell"
+		"hell",
+		"side",
+		"heaven",
+		"out"
 	],
     "season": [
 		"pass",
@@ -297,7 +340,10 @@
         "paint"
 	],
     "cap": [
-		"on"
+		"on",
+		"wear",
+		"twist",
+		"often"
 	],
     "marketing": [
 		"department",
@@ -347,7 +393,16 @@
 		"video"
 	],
 	"plant": [
-		"water"
+		"water",
+		"carrot",
+		"potato",
+		"tomato",
+		"cucumber",
+		"wheat",
+		"rice",
+		"onion",
+		"lettuce",
+		"bomb"
 	],
 	"game": [
 		"code",
@@ -380,7 +435,8 @@
 		"come",
 		"look",
 		"let",
-		"standing"
+		"standing",
+		"pace"
 	],
 	"statue": [
 		"liberty"
@@ -396,7 +452,9 @@
 		"laundry"
 	],
 	"shredder": [
-		"cheese"
+		"cheese",
+		"box",
+		"paper"
 	],
 	"toy": [
 		"story"
@@ -411,10 +469,15 @@
 	],
 	"life": [
 		"saver",
-		"style"
+		"style",
+		"giver",
+		"embracement"
 	],
 	"fan": [
-		"turn"
+		"turn",
+		"air",
+		"wind",
+		"cooling"
 	],
 	"shelf": [
 		"book"
@@ -426,7 +489,10 @@
 		"car"
 	],
 	"wheel": [
-		"car"
+		"car",
+		"cheese",
+		"spin",
+		"spinning"
 	],
 	"support": [
 		"child"
@@ -460,7 +526,8 @@
 		"smoke",
 		"cat",
 		"brush",
-		"eye"
+		"eye",
+		"corn"
 
 	],
 	"bubble": [
@@ -508,14 +575,19 @@
 		"nut"
 	],
 	"break": [
-		"dance"
+		"dance",
+		"heart",
+		"table",
+		"off",
+		"out"
 	],
 	"fast": [
 		"farward",
 		"cheetah"
 	],
 	"size": [
-		"difference"
+		"difference",
+		"shoe"
 	],
 	"camera": [
 		"focus",
@@ -612,7 +684,8 @@
 		"ruby",
 		"diamond",
 		"sapphire",
-		"dweller"
+		"dweller",
+		"explore"
 	],
 	"release": [
 		"emotions",
@@ -641,10 +714,15 @@
 		"plane"
 	],
 	"bone": [
-		"dead"
+		"dead",
+		"crack",
+		"dog",
+		"throw"
 	],
 	"fall": [
-		"down"
+		"down",
+		"out",
+		"autumn"
 	],
 	"lobster": [
 		"meat"
@@ -658,10 +736,13 @@
 	],
 	"care": [
 		"of",
-		"taker"
+		"taker",
+		"deeply",
+		"for"
 	],
 	"strategy": [
-		"game"
+		"game",
+		"chess"
 	],
 	"book": [
 		"shelf"
@@ -696,7 +777,8 @@
 	],
 	"water": [
 		"well",
-		"bear"
+		"bear",
+		"rain"
 	],
 	"lock": [
 		"room"
@@ -723,8 +805,384 @@
 		"space",
 		"area",
 		"zone",
-		"fee",
-		""
+		"fee"
+	],
+	"blue": [
+		"lobster",
+		"cheese",
+		"flower"
+		
+	],
+	"glass": [
+		"heart",
+		"cut"
+	],
+	"fork": [
+		"lift"
+	],
+	"shower": [
+		"time"
+	],
+	"name": [
+		"board",
+		"child",
+		"kid",
+		"pet"
+	],
+	"meal": [
+		"food"
+	],
+	"panel": [
+		"tile",
+		"tiles",
+		"floor"
+	],
+	"lion": [
+		"animal"
+	],
+	"hunt": [
+		"adventure",
+		"rabbit",
+		"deer",
+		"food",
+		"animals",
+		"animal",
+		"wildlife"
+	],
+	"answer": [
+		"solution"
+	],
+	"count": [
+		"fingers"
+	],
+	"area": [
+		"size"
+	],
+	"call": [
+		"mom",
+		"dad",
+		"mother",
+		"father",
+		"friend",
+		"friends",
+		"family",
+		"dog",
+		"phone",
+		"pet"
+	],
+	"treasure": [
+		"coin"
+	],
+	"scale": [
+		"pad"
+	],
+	"pet": [
+		"bird",
+		"dog",
+		"animal"
+	],
+	"map": [
+		"out"
+	],
+	"bed": [
+		"size",
+		"plushie"
+	],
+	"gear": [
+		"turn"
+	],
+	"street": [
+		"law"
+	],
+	"launch": [
+		"firework"
+	],
+	"blast": [
+		"bomb",
+		"rocket"
+	],
+	"traffic": [
+		"stop"
+	],
+	"bar": [
+		"shake",
+		"party"
+	],
+	"fire": [
+		"camp"
+	],
+	"air": [
+		"wind"
+	],
+	"fix": [
+		"hair"
+	],
+	"reading": [
+		"class"
+	],
+	"duck": [
+		"hunt"
+	],
+	"sting": [
+		"ray",
+		"hurt"
+	],
+	"limit": [
+		"sugar",
+		"point"
+	],
+	"red": [
+		"heart",
+		"berry"
+	],
+	"festival": [
+		"time",
+		"ride"
+	],
+	"principal": [
+		"school",
+		"teacher",
+		"assistant"
+	],
+	"knife": [
+		"board",
+		"cut"
+	],
+	"crack": [
+		"open",
+		"eggs"
+	],
+	"open": [
+		"minded",
+		"portal"
+	],
+	"boot": [
+		"up"
+	],
+	"plate": [
+		"throw",
+		"shatter",
+		"break",
+		"food"
+	],
+	"number": [
+		"one"
+	],
+	"syrup": [
+		"candy",
+		"sauce",
+		"tree"
+	],
+	"purple": [
+		"berry",
+		"car",
+		"guy"
+	],
+	"bird": [
+		"sky"
+	],
+	"cold": [
+		"ice"
+	],
+	"slide": [
+		"down",
+		"off"
+	],
+	"show": [
+		"theater"
+	],
+	"wax": [
+		"melt",
+		"leg",
+		"legs"
+	],
+	"guide": [
+		"line"
+	],
+	"car": [
+		"shop",
+		"store",
+		"shipment"
+	],
+	"load": [
+		"gun",
+		"clip",
+		"game"
+	],
+	"service": [
+		"car"
+	],
+	"coin": [
+		"penny"
+	],
+	"monitor": [
+		"tv",
+		"health"
+	],
+	"allergy": [
+		"sneeze"
+	],
+	"cycle": [
+		"repeat"
+	],
+	"sugar": [
+		"bag"
+	],
+	"post": [
+		"malone",
+		"mail",
+		"video"
+	],
+	"contract": [
+		"information"
+	],
+	"flip": [
+		"book"
+	],
+	"mix": [
+		"batter",
+		"smoothie"
+	],
+	"paid": [
+		"trip",
+		"expense"
+	],
+	"radio": [
+		"song"
+	],
+	"science": [
+		"test"
+	],
+	"insurance": [
+		"payment"
+	],
+	"empty": [
+		"page",
+		"paper",
+		"jar"
+	],
+	"officer": [
+		"police",
+		"cop",
+		"sheriff"
+	],
+	"wood": [
+		"chop",
+		"bridge"
+	],
+	"date": [
+		"couple",
+		"partner"
+	],
+	"set": [
+		"out"
+	],
+	"lane": [
+		"highway",
+		"name"
+	],
+	"draft": [
+		"soldier",
+		"war",
+		"soldiers",
+		"army"
+	],
+	"phone": [
+		"text",
+		"internet"
+	],
+	"suit": [
+		"up"
+	],
+	"leaf": [
+		"blower",
+		"shape",
+		"color"
+	],
+	"pillow": [
+		"bed",
+		"plushie"
+	],
+	"heart": [
+		"candy",
+		"pain",
+		"eyes"
+	],
+	"top": [
+		"shelf",
+		"notch",
+		"hat"
+	],
+	"route": [
+		"follow",
+		"bridge",
+		"path"
+	],
+	"front": [
+		"row"
+	],
+	"chocolate": [
+		"milkshake",
+		"milk",
+		"flavor",
+		"bar",
+		"bunny",
+		"egg",
+		"river",
+		"factory",
+		"cocoa",
+		"chip",
+		"bite",
+		"cookie",
+		"cake",
+		"cream",
+		"pie",
+		"pizza",
+		"pudding",
+		"block",
+		"brand",
+		"brown",
+		"orange",
+		"candy",
+		"ball",
+		"glaze",
+		"donut",
+		"chunk",
+		"chunks",
+		"stain",
+		"color",
+		"type",
+		"strawberry",
+		"chips",
+		"fudge",
+		"gift",
+		"box",
+		"fountain",
+		"topping",
+		"pancake",
+		"waffle",
+		"mousse",
+		"cupcake",
+		"filling",
+		"crossaint",
+		"white",
+		"lolipop",
+		"snack",
+		"coin",
+		"frosting",
+		"layer",
+		"sweet",
+		"sauce",
+		"batter",
+		"mix",
+		"smell",
+		"coat",
+		"pour",
+		"aftertaste",
+		"drink",
+		"cup",
+		"glass",
+		"fruit"
 	]
 
     }
