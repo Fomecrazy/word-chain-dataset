@@ -1,16 +1,16 @@
 {
-  "version": "9516b936fa4f0d48cbc8c8bc34fcc299812f3d5d",
-  "updated_at": "2026-03-09T06:08:41.150364+00:00",
+  "version": "f5859b080a5d428503675d84c38dd5c6b275fa9a",
+  "updated_at": "2026-03-10T08:25:58.585092+00:00",
   "dataset": {
     "main": {
-      "version": "66ba9821de3dd90f6f8423fcf43ea58e72ed84a9",
-      "updated_at": "2026-03-06T20:57:07.980748+00:00",
-      "url": "https://raw.githubusercontent.com/Fomecrazy/word-chain-dataset/66ba9821de3dd90f6f8423fcf43ea58e72ed84a9/data/dataset/generated/main.json"
+      "version": "f5859b080a5d428503675d84c38dd5c6b275fa9a",
+      "updated_at": "2026-03-10T08:25:58.579548+00:00",
+      "url": "https://raw.githubusercontent.com/Fomecrazy/word-chain-dataset/f5859b080a5d428503675d84c38dd5c6b275fa9a/data/dataset/generated/main.json"
     },
     "fome": {
-      "version": "9516b936fa4f0d48cbc8c8bc34fcc299812f3d5d",
-      "updated_at": "2026-03-09T06:08:41.149996+00:00",
-      "url": "https://raw.githubusercontent.com/Fomecrazy/word-chain-dataset/9516b936fa4f0d48cbc8c8bc34fcc299812f3d5d/data/dataset/curated/fome.json"
+      "version": "f5859b080a5d428503675d84c38dd5c6b275fa9a",
+      "updated_at": "2026-03-10T08:25:58.579196+00:00",
+      "url": "https://raw.githubusercontent.com/Fomecrazy/word-chain-dataset/f5859b080a5d428503675d84c38dd5c6b275fa9a/data/dataset/curated/fome.json"
     },
     "animal": {
       "version": "2c5149cd4ea49db62c7168c1ca41bd5521476bca",
@@ -33,9 +33,9 @@
       "url": "https://raw.githubusercontent.com/Fomecrazy/word-chain-dataset/773fef87f2d57fb7aa35b247a6e337811f80729f/data/dataset/curated/color.json"
     },
     "cheez": {
-      "version": "9516b936fa4f0d48cbc8c8bc34fcc299812f3d5d",
-      "updated_at": "2026-03-09T06:08:41.148838+00:00",
-      "url": "https://raw.githubusercontent.com/Fomecrazy/word-chain-dataset/9516b936fa4f0d48cbc8c8bc34fcc299812f3d5d/data/dataset/curated/cheez.json"
+      "version": "f5859b080a5d428503675d84c38dd5c6b275fa9a",
+      "updated_at": "2026-03-10T08:25:58.577720+00:00",
+      "url": "https://raw.githubusercontent.com/Fomecrazy/word-chain-dataset/f5859b080a5d428503675d84c38dd5c6b275fa9a/data/dataset/curated/cheez.json"
     }
   }
 }
