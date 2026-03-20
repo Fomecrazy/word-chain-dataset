@@ -1,6 +1,6 @@
 {
-  "version": "1fd229a7720547b76bfe50a6aef8a89127faa2e6",
-  "updated_at": "2026-03-20T16:47:33.029243+00:00",
+  "version": "708e4d6c39c843315a33aec50b451eb0d5a6838d",
+  "updated_at": "2026-03-20T20:57:37.322814+00:00",
   "dataset": {
     "main": {
       "version": "f5859b080a5d428503675d84c38dd5c6b275fa9a",
@@ -38,9 +38,9 @@
       "url": "https://raw.githubusercontent.com/Fomecrazy/word-chain-dataset/f5859b080a5d428503675d84c38dd5c6b275fa9a/data/dataset/curated/cheez.json"
     },
     "gameCurated": {
-      "version": "1fd229a7720547b76bfe50a6aef8a89127faa2e6",
-      "updated_at": "2026-03-20T16:47:33.024276+00:00",
-      "url": "https://raw.githubusercontent.com/Fomecrazy/word-chain-dataset/1fd229a7720547b76bfe50a6aef8a89127faa2e6/data/dataset/curated/gameCurated.json"
+      "version": "708e4d6c39c843315a33aec50b451eb0d5a6838d",
+      "updated_at": "2026-03-20T20:57:37.318825+00:00",
+      "url": "https://raw.githubusercontent.com/Fomecrazy/word-chain-dataset/708e4d6c39c843315a33aec50b451eb0d5a6838d/data/dataset/curated/gameCurated.json"
     }
   }
 }
